@@ -2,13 +2,17 @@
 
 # 폴더 구조
 
-## client / server
+client(react) / server(node.js)
 
 # 실행 방법
 
-## client 에서 npm run start
+1. client 에서 npm run start
 
-## server 에서 nodemon server.js
+   - cd client - npm install - npm run start
+
+2. server 에서 nodemon server.js
+
+   - cd server - npm install - nodemon server.js
 
 # 학습한 내용
 
